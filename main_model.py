@@ -51,3 +51,7 @@ for fn in uploaded.keys():
   plt.title(f"Prediction: {predicted_class_name}")
   plt.axis('off')
   plt.show()
+    # Optional: Display the image you just tested
+  # Optional: Display the image you just tested
+  # Optional: Display the image you just tested
+  # Optional: Display the image you just tested
